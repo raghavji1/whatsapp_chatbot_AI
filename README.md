@@ -1,7 +1,7 @@
 
 # AI-Powered WhatsApp Chatbot for Recruitment Assistance
 
-Overview
+## Overview
 
 This project is an AI-powered chatbot designed to facilitate recruitment processes through WhatsApp. It interacts with job candidates, collects relevant information, and provides job recommendations using LangChain for conversational AI and Pinecone for vector-based retrieval, integrated with MongoDB for chat history storage.
 
