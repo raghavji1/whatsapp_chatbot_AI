@@ -1,0 +1,11 @@
+langchain==0.2.7
+langchain-community==0.2.7
+langchain-openai==0.1.14
+pinecone==5.0.0
+pinecone-client==5.0.0
+flask==3.0.2
+twilio==9.1.0
+python-dotenv==1.0.1
+pymongo==4.8.0
+mysql-connector-python==9.0.0
+langchain-pinecone==0.1.3
